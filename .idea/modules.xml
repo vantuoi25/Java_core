@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BrSE_JavaCore-main.iml" filepath="$PROJECT_DIR$/.idea/BrSE_JavaCore-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BrSE_JavaCore-main/TestingSystem_Assignment_1/EXERCISE1.iml" filepath="$PROJECT_DIR$/BrSE_JavaCore-main/TestingSystem_Assignment_1/EXERCISE1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BrSE_JavaCore-main/NguyenThiTrucLeFINAL_EXAM_/FINAL_EXAM_.iml" filepath="$PROJECT_DIR$/BrSE_JavaCore-main/NguyenThiTrucLeFINAL_EXAM_/FINAL_EXAM_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BrSE_JavaCore-main/TestingSystem_Assignment_2_/TestingSystem_Assignment_2_.iml" filepath="$PROJECT_DIR$/BrSE_JavaCore-main/TestingSystem_Assignment_2_/TestingSystem_Assignment_2_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BrSE_JavaCore-main/TestingSystem_Assignment_3/TestingSystem_Assignment_3.iml" filepath="$PROJECT_DIR$/BrSE_JavaCore-main/TestingSystem_Assignment_3/TestingSystem_Assignment_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BrSE_JavaCore-main/TestingSystem_Assignment_4/TestingSystem_Assignment_4.iml" filepath="$PROJECT_DIR$/BrSE_JavaCore-main/TestingSystem_Assignment_4/TestingSystem_Assignment_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BrSE_JavaCore-main/TestingSystem_Assignment_5/TestingSystem_Assignment_5.iml" filepath="$PROJECT_DIR$/BrSE_JavaCore-main/TestingSystem_Assignment_5/TestingSystem_Assignment_5.iml" />
+    </modules>
+  </component>
+</project>
